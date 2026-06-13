@@ -1,0 +1,7 @@
+Variable,Tipus_Dada
+aval,object
+grup,int64
+semi,int64
+lab,int64
+target,int64
+total_examen,float64

@@ -1,0 +1,406 @@
+Variable,Tipus_Dada
+id,object
+AM,int64
+PM,int64
+hLectiu,int64
+latePM,int64
+total_visites,int64
+CapDeSetmana,int64
+Laborable,int64
+total_clics,int64
+Altre_Mòdul de curs vist,int64
+Altre_S'ha mostrat el debat,int64
+Archive: 21-22_Mòdul de curs vist,int64
+Archive: 21-22_S'ha descarregat l'arxiu Zip o la carpeta,int64
+Archive: 22-23_Mòdul de curs vist,int64
+Archive: 22-23_S'ha descarregat l'arxiu Zip o la carpeta,int64
+Archive: 23-24_Mòdul de curs vist,int64
+Archive: 23-24_S'ha descarregat l'arxiu Zip o la carpeta,int64
+Attendance: Practices_S'ha visualitzat l'informe de la sessió,int64
+Attendance: Seminars_S'ha visualitzat l'informe de la sessió,int64
+Carpeta: Apunts Tema 1 - Dinàmica_Mòdul de curs vist,int64
+Carpeta: Apunts Tema 1 - Dinàmica_S'ha descarregat l'arxiu Zip o la carpeta,int64
+Carpeta: Material addicional Tema 11_Mòdul de curs vist,int64
+Carpeta: Material addicional Tema 11_S'ha descarregat l'arxiu Zip o la carpeta,int64
+Course Information_Mòdul de curs vist,int64
+Course Root_Activitat recent vista,int64
+Course Root_Curs vist,int64
+Course Root_Informe d'usuari del curs vist,int64
+Course Root_Llista d'instàncies de mòduls de curs vistos,int64
+Course Root_Perfil de l'usuari mostrat,int64
+Course Root_S'ha actualitzat l'element de qualificació,int64
+Course Root_S'ha afegit el membre del grup,int64
+Course Root_S'ha suprimit el membre del grup,int64
+Course Root_S'ha visualitzat Open Grader,int64
+Course Root_S'ha visualitzat l'informe d'usuari de qualificacions,int64
+Course Root_S'ha visualitzat l'informe de resum de qualificacions,int64
+Course Root_Section viewed,int64
+Course Root_Usuari qualificat,int64
+Curs: Fonaments de Física 2024-24290-T2_Curs vist,int64
+Curs: Fonaments de Física 2024-24290-T2_Informe d'usuari del curs vist,int64
+Curs: Fonaments de Física 2024-24290-T2_Llista d'instàncies de mòduls de curs vistos,int64
+Curs: Fonaments de Física 2024-24290-T2_Perfil de l'usuari mostrat,int64
+Curs: Fonaments de Física 2024-24290-T2_S'ha visualitzat l'informe d'usuari de qualificacions,int64
+Curs: Fonaments de Física 2024-24290-T2_Section viewed,int64
+Curs: Fonaments de Física 2024-24290-T2_Usuari qualificat,int64
+Elecció de grup: Assistència sortida Cosmo Caixa_Mòdul de curs vist,int64
+Elecció de grup: Assistència sortida Cosmo Caixa_S'ha creat l'elecció,int64
+Elecció de grup: Assistència sortida Cosmo Caixa_S'ha esborrat l'elecció,int64
+Exam: Final Solved_Mòdul de curs vist,int64
+Exam: Optical Sheet Instr_Mòdul de curs vist,int64
+Exam: Recovery Solved_Mòdul de curs vist,int64
+Exercicis Sessió 10_Mòdul de curs vist,int64
+Exercicis Sessió 10_Quiz attempt auto-saved,int64
+Exercicis Sessió 10_Quiz attempt question restarted,int64
+Exercicis Sessió 10_Quiz attempt updated,int64
+Exercicis Sessió 10_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 10_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 10_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 10_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 10_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 11_Mòdul de curs vist,int64
+Exercicis Sessió 11_Quiz attempt auto-saved,int64
+Exercicis Sessió 11_Quiz attempt question restarted,int64
+Exercicis Sessió 11_Quiz attempt updated,int64
+Exercicis Sessió 11_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 11_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 11_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 11_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 11_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 12_Mòdul de curs vist,int64
+Exercicis Sessió 12_Quiz attempt auto-saved,int64
+Exercicis Sessió 12_Quiz attempt question restarted,int64
+Exercicis Sessió 12_Quiz attempt updated,int64
+Exercicis Sessió 12_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 12_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 12_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 12_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 12_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 13_Mòdul de curs vist,int64
+Exercicis Sessió 13_Quiz attempt auto-saved,int64
+Exercicis Sessió 13_Quiz attempt question restarted,int64
+Exercicis Sessió 13_Quiz attempt updated,int64
+Exercicis Sessió 13_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 13_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 13_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 13_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 13_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 14_Mòdul de curs vist,int64
+Exercicis Sessió 14_Quiz attempt auto-saved,int64
+Exercicis Sessió 14_Quiz attempt question restarted,int64
+Exercicis Sessió 14_Quiz attempt updated,int64
+Exercicis Sessió 14_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 14_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 14_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 14_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 14_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 1_Mòdul de curs vist,int64
+Exercicis Sessió 1_Quiz attempt auto-saved,int64
+Exercicis Sessió 1_Quiz attempt question restarted,int64
+Exercicis Sessió 1_Quiz attempt updated,int64
+Exercicis Sessió 1_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 1_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 1_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 1_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 1_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 2_Mòdul de curs vist,int64
+Exercicis Sessió 2_Quiz attempt auto-saved,int64
+Exercicis Sessió 2_Quiz attempt question restarted,int64
+Exercicis Sessió 2_Quiz attempt updated,int64
+Exercicis Sessió 2_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 2_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 2_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 2_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 2_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 3_Mòdul de curs vist,int64
+Exercicis Sessió 3_Quiz attempt auto-saved,int64
+Exercicis Sessió 3_Quiz attempt question restarted,int64
+Exercicis Sessió 3_Quiz attempt updated,int64
+Exercicis Sessió 3_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 3_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 3_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 3_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 3_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 4_Mòdul de curs vist,int64
+Exercicis Sessió 4_Quiz attempt auto-saved,int64
+Exercicis Sessió 4_Quiz attempt question restarted,int64
+Exercicis Sessió 4_Quiz attempt updated,int64
+Exercicis Sessió 4_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 4_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 4_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 4_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 4_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 7_Mòdul de curs vist,int64
+Exercicis Sessió 7_Quiz attempt auto-saved,int64
+Exercicis Sessió 7_Quiz attempt question restarted,int64
+Exercicis Sessió 7_Quiz attempt updated,int64
+Exercicis Sessió 7_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 7_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 7_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 7_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 7_S'han mostrat l'intent del qüestionari,int64
+Exercicis Sessió 9_Mòdul de curs vist,int64
+Exercicis Sessió 9_Quiz attempt auto-saved,int64
+Exercicis Sessió 9_Quiz attempt question restarted,int64
+Exercicis Sessió 9_Quiz attempt updated,int64
+Exercicis Sessió 9_S'ha començat l'intent del qüestionari,int64
+Exercicis Sessió 9_S'ha mostrat el resum de l'intent del qüestionari,int64
+Exercicis Sessió 9_S'ha revisat l'intent del qüestionari,int64
+Exercicis Sessió 9_S'ha tramès l'intent del qüestionari,int64
+Exercicis Sessió 9_S'han mostrat l'intent del qüestionari,int64
+Exercises: B1 Damped/Forced Osc_Mòdul de curs vist,int64
+Exercises: B1 Undamped Osc_Mòdul de curs vist,int64
+Exercises: B2 Waves Basics_Mòdul de curs vist,int64
+Exercises: B2 Waves Interf_Mòdul de curs vist,int64
+Exercises: B3 Circuits_Mòdul de curs vist,int64
+Exercises: B3 Electrostatics_Mòdul de curs vist,int64
+Exercises: B4 Induction_Mòdul de curs vist,int64
+Exercises: B4 Magnetostatics_Mòdul de curs vist,int64
+File: P1 Material_Mòdul de curs vist,int64
+File: P1 Solution_Mòdul de curs vist,int64
+File: P2 Material_Mòdul de curs vist,int64
+File: P3 Material_Mòdul de curs vist,int64
+File: P4 Material_Mòdul de curs vist,int64
+File: P4 Solution_Mòdul de curs vist,int64
+File: P5 Material_Mòdul de curs vist,int64
+File: P6 Material_Mòdul de curs vist,int64
+File: P7 Material_Mòdul de curs vist,int64
+File: Seminar 1_Mòdul de curs vist,int64
+File: Seminar 2_Mòdul de curs vist,int64
+File: Seminar 3_Mòdul de curs vist,int64
+File: Seminar 4_Mòdul de curs vist,int64
+File: Seminar 5_Mòdul de curs vist,int64
+File: Seminar 6_Mòdul de curs vist,int64
+File: Topic 0 Review_Mòdul de curs vist,int64
+Fitxer: Presentació del curs_Mòdul de curs vist,int64
+Formula Sheet_Mòdul de curs vist,int64
+Fòrums_Mòdul de curs vist,int64
+Fòrums_S'ha mostrat el debat,int64
+Group Choice: Alt Assessment_Mòdul de curs vist,int64
+Group Choice: Alt Assessment_S'ha creat l'elecció,int64
+Group Choice: Alt Assessment_S'ha esborrat l'elecció,int64
+Other_Mòdul de curs vist,int64
+Other_S'ha visualitzat l'estat de la tasca.,int64
+Pla d'Aprenentatge_Llibre imprès,int64
+Pla d'Aprenentatge_Mòdul de curs vist,int64
+Pla d'Aprenentatge_S'ha visualitzat el capítol.,int64
+Quiz: Review Block 1_Mòdul de curs vist,int64
+Quiz: Review Block 1_Quiz attempt auto-saved,int64
+Quiz: Review Block 1_Quiz attempt updated,int64
+Quiz: Review Block 1_S'ha començat l'intent del qüestionari,int64
+Quiz: Review Block 1_S'ha mostrat el resum de l'intent del qüestionari,int64
+Quiz: Review Block 1_S'ha revisat l'intent del qüestionari,int64
+Quiz: Review Block 1_S'ha tramès l'intent del qüestionari,int64
+Quiz: Review Block 1_S'han mostrat l'intent del qüestionari,int64
+Quiz: Review Block 2_Mòdul de curs vist,int64
+Quiz: Review Block 2_Quiz attempt auto-saved,int64
+Quiz: Review Block 2_Quiz attempt updated,int64
+Quiz: Review Block 2_S'ha començat l'intent del qüestionari,int64
+Quiz: Review Block 2_S'ha mostrat el resum de l'intent del qüestionari,int64
+Quiz: Review Block 2_S'ha revisat l'intent del qüestionari,int64
+Quiz: Review Block 2_S'ha tramès l'intent del qüestionari,int64
+Quiz: Review Block 2_S'han mostrat l'intent del qüestionari,int64
+Quiz: Review Block 3_Mòdul de curs vist,int64
+Quiz: Review Block 3_Quiz attempt auto-saved,int64
+Quiz: Review Block 3_Quiz attempt updated,int64
+Quiz: Review Block 3_S'ha començat l'intent del qüestionari,int64
+Quiz: Review Block 3_S'ha mostrat el resum de l'intent del qüestionari,int64
+Quiz: Review Block 3_S'ha revisat l'intent del qüestionari,int64
+Quiz: Review Block 3_S'ha tramès l'intent del qüestionari,int64
+Quiz: Review Block 3_S'han mostrat l'intent del qüestionari,int64
+Quiz: Review Block 4_Mòdul de curs vist,int64
+Quiz: Review Block 4_Quiz attempt auto-saved,int64
+Quiz: Review Block 4_Quiz attempt updated,int64
+Quiz: Review Block 4_S'ha començat l'intent del qüestionari,int64
+Quiz: Review Block 4_S'ha mostrat el resum de l'intent del qüestionari,int64
+Quiz: Review Block 4_S'ha revisat l'intent del qüestionari,int64
+Quiz: Review Block 4_S'ha tramès l'intent del qüestionari,int64
+Quiz: Review Block 4_S'han mostrat l'intent del qüestionari,int64
+Quiz: Seminar 1 (Practice)_Mòdul de curs vist,int64
+Quiz: Seminar 1 (Practice)_Quiz attempt auto-saved,int64
+Quiz: Seminar 1 (Practice)_Quiz attempt updated,int64
+Quiz: Seminar 1 (Practice)_S'ha començat l'intent del qüestionari,int64
+Quiz: Seminar 1 (Practice)_S'ha mostrat el resum de l'intent del qüestionari,int64
+Quiz: Seminar 1 (Practice)_S'ha revisat l'intent del qüestionari,int64
+Quiz: Seminar 1 (Practice)_S'ha tramès l'intent del qüestionari,int64
+Quiz: Seminar 1 (Practice)_S'han mostrat l'intent del qüestionari,int64
+Quiz: Seminar 5 (All)_Mòdul de curs vist,int64
+Quiz: Seminar 5 (All)_Quiz attempt auto-saved,int64
+Quiz: Seminar 5 (All)_Quiz attempt updated,int64
+Quiz: Seminar 5 (All)_S'ha començat l'intent del qüestionari,int64
+Quiz: Seminar 5 (All)_S'ha mostrat el resum de l'intent del qüestionari,int64
+Quiz: Seminar 5 (All)_S'ha revisat l'intent del qüestionari,int64
+Quiz: Seminar 5 (All)_S'ha tramès l'intent del qüestionari,int64
+Quiz: Seminar 5 (All)_S'han mostrat l'intent del qüestionari,int64
+Quiz: Seminar 6 (All)_Mòdul de curs vist,int64
+Quiz: Seminar 6 (All)_Quiz attempt auto-saved,int64
+Quiz: Seminar 6 (All)_Quiz attempt updated,int64
+Quiz: Seminar 6 (All)_S'ha començat l'intent del qüestionari,int64
+Quiz: Seminar 6 (All)_S'ha mostrat el resum de l'intent del qüestionari,int64
+Quiz: Seminar 6 (All)_S'ha revisat l'intent del qüestionari,int64
+Quiz: Seminar 6 (All)_S'ha tramès l'intent del qüestionari,int64
+Quiz: Seminar 6 (All)_S'han mostrat l'intent del qüestionari,int64
+Quiz: Topic 0 Self-Eval_Mòdul de curs vist,int64
+Quiz: Topic 0 Self-Eval_Quiz attempt auto-saved,int64
+Quiz: Topic 0 Self-Eval_Quiz attempt updated,int64
+Quiz: Topic 0 Self-Eval_S'ha començat l'intent del qüestionari,int64
+Quiz: Topic 0 Self-Eval_S'ha mostrat el resum de l'intent del qüestionari,int64
+Quiz: Topic 0 Self-Eval_S'ha revisat l'intent del qüestionari,int64
+Quiz: Topic 0 Self-Eval_S'ha tramès l'intent del qüestionari,int64
+Quiz: Topic 0 Self-Eval_S'han mostrat l'intent del qüestionari,int64
+Qüesitonari P1_Mòdul de curs vist,int64
+Qüesitonari P1_Quiz attempt auto-saved,int64
+Qüesitonari P1_Quiz attempt updated,int64
+Qüesitonari P1_S'ha començat l'intent del qüestionari,int64
+Qüesitonari P1_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüesitonari P1_S'ha revisat l'intent del qüestionari,int64
+Qüesitonari P1_S'ha tramès l'intent del qüestionari,int64
+Qüesitonari P1_S'han mostrat l'intent del qüestionari,int64
+Qüesitonari P2_Mòdul de curs vist,int64
+Qüesitonari P2_Quiz attempt auto-saved,int64
+Qüesitonari P2_Quiz attempt updated,int64
+Qüesitonari P2_S'ha començat l'intent del qüestionari,int64
+Qüesitonari P2_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüesitonari P2_S'ha revisat l'intent del qüestionari,int64
+Qüesitonari P2_S'ha tramès l'intent del qüestionari,int64
+Qüesitonari P2_S'han mostrat l'intent del qüestionari,int64
+Qüesitonari P3_Mòdul de curs vist,int64
+Qüesitonari P3_Quiz attempt auto-saved,int64
+Qüesitonari P3_Quiz attempt updated,int64
+Qüesitonari P3_S'ha començat l'intent del qüestionari,int64
+Qüesitonari P3_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüesitonari P3_S'ha revisat l'intent del qüestionari,int64
+Qüesitonari P3_S'ha tramès l'intent del qüestionari,int64
+Qüesitonari P3_S'han mostrat l'intent del qüestionari,int64
+Qüesitonari P4_Mòdul de curs vist,int64
+Qüesitonari P4_Quiz attempt auto-saved,int64
+Qüesitonari P4_Quiz attempt updated,int64
+Qüesitonari P4_S'ha començat l'intent del qüestionari,int64
+Qüesitonari P4_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüesitonari P4_S'ha revisat l'intent del qüestionari,int64
+Qüesitonari P4_S'ha tramès l'intent del qüestionari,int64
+Qüesitonari P4_S'han mostrat l'intent del qüestionari,int64
+Qüesitonari P5_Mòdul de curs vist,int64
+Qüesitonari P5_Quiz attempt auto-saved,int64
+Qüesitonari P5_Quiz attempt updated,int64
+Qüesitonari P5_S'ha començat l'intent del qüestionari,int64
+Qüesitonari P5_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüesitonari P5_S'ha revisat l'intent del qüestionari,int64
+Qüesitonari P5_S'ha tramès l'intent del qüestionari,int64
+Qüesitonari P5_S'han mostrat l'intent del qüestionari,int64
+Qüesitonari P6_Mòdul de curs vist,int64
+Qüesitonari P6_Quiz attempt auto-saved,int64
+Qüesitonari P6_Quiz attempt updated,int64
+Qüesitonari P6_S'ha començat l'intent del qüestionari,int64
+Qüesitonari P6_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüesitonari P6_S'ha revisat l'intent del qüestionari,int64
+Qüesitonari P6_S'ha tramès l'intent del qüestionari,int64
+Qüesitonari P6_S'han mostrat l'intent del qüestionari,int64
+Qüesitonari P7_Mòdul de curs vist,int64
+Qüesitonari P7_Quiz attempt auto-saved,int64
+Qüesitonari P7_Quiz attempt updated,int64
+Qüesitonari P7_S'ha començat l'intent del qüestionari,int64
+Qüesitonari P7_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüesitonari P7_S'ha revisat l'intent del qüestionari,int64
+Qüesitonari P7_S'ha tramès l'intent del qüestionari,int64
+Qüesitonari P7_S'han mostrat l'intent del qüestionari,int64
+Qüestionari S1_Mòdul de curs vist,int64
+Qüestionari S1_Quiz attempt auto-saved,int64
+Qüestionari S1_Quiz attempt updated,int64
+Qüestionari S1_S'ha començat l'intent del qüestionari,int64
+Qüestionari S1_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüestionari S1_S'ha revisat l'intent del qüestionari,int64
+Qüestionari S1_S'ha tramès l'intent del qüestionari,int64
+Qüestionari S1_S'han mostrat l'intent del qüestionari,int64
+Qüestionari S2_Mòdul de curs vist,int64
+Qüestionari S2_Quiz attempt auto-saved,int64
+Qüestionari S2_Quiz attempt updated,int64
+Qüestionari S2_S'ha començat l'intent del qüestionari,int64
+Qüestionari S2_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüestionari S2_S'ha revisat l'intent del qüestionari,int64
+Qüestionari S2_S'ha tramès l'intent del qüestionari,int64
+Qüestionari S2_S'han mostrat l'intent del qüestionari,int64
+Qüestionari S3_Mòdul de curs vist,int64
+Qüestionari S3_Quiz attempt auto-saved,int64
+Qüestionari S3_Quiz attempt updated,int64
+Qüestionari S3_S'ha començat l'intent del qüestionari,int64
+Qüestionari S3_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüestionari S3_S'ha revisat l'intent del qüestionari,int64
+Qüestionari S3_S'ha tramès l'intent del qüestionari,int64
+Qüestionari S3_S'han mostrat l'intent del qüestionari,int64
+Qüestionari S4_Mòdul de curs vist,int64
+Qüestionari S4_Quiz attempt auto-saved,int64
+Qüestionari S4_Quiz attempt updated,int64
+Qüestionari S4_S'ha començat l'intent del qüestionari,int64
+Qüestionari S4_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüestionari S4_S'ha revisat l'intent del qüestionari,int64
+Qüestionari S4_S'ha tramès l'intent del qüestionari,int64
+Qüestionari S4_S'han mostrat l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 5_Mòdul de curs vist,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 5_Quiz attempt auto-saved,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 5_Quiz attempt updated,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 5_S'ha començat l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 5_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 5_S'ha revisat l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 5_S'ha tramès l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 5_S'han mostrat l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 8_Mòdul de curs vist,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 8_Quiz attempt auto-saved,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 8_Quiz attempt updated,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 8_S'ha començat l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 8_S'ha mostrat el resum de l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 8_S'ha revisat l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 8_S'ha tramès l'intent del qüestionari,int64
+Qüestionari d'avaluació: Qüestionari - Preparació prèvia Tema 8_S'han mostrat l'intent del qüestionari,int64
+Session Schedule_Mòdul de curs vist,int64
+Sim: 2 Vibs In Phase_Mòdul de curs vist,int64
+Sim: 2 Vibs Opposite Phase_Mòdul de curs vist,int64
+Sim: 2 Vibs Quadrature_Mòdul de curs vist,int64
+Sim: Superpos Waves In Phase_Mòdul de curs vist,int64
+Sim: Superpos Waves Opposite_Mòdul de curs vist,int64
+Task: P1 Delivery_Comentari creat,int64
+Task: P1 Delivery_Mòdul de curs vist,int64
+Task: P1 Delivery_S'ha actualitzat l'estat de la tramesa.,int64
+Task: P1 Delivery_S'ha actualitzat la tasca.,int64
+Task: P1 Delivery_S'ha creat la tramesa.,int64
+Task: P1 Delivery_S'ha pujat un fitxer.,int64
+Task: P1 Delivery_S'ha tramès una tramesa.,int64
+Task: P1 Delivery_S'ha visualitzat Open Grader,int64
+Task: P1 Delivery_S'ha visualitzat el formulari de tramesa.,int64
+Task: P1 Delivery_S'ha visualitzat l'estat de la tasca.,int64
+Task: P1 Delivery_S'ha visualitzat la confirmació de la supressió de la tramesa.,int64
+Task: P1 Delivery_S'ha visualitzat la retroacció,int64
+Task: P1 Delivery_Submission removed.,int64
+Task: P4 Delivery_Mòdul de curs vist,int64
+Task: P4 Delivery_S'ha actualitzat l'estat de la tramesa.,int64
+Task: P4 Delivery_S'ha actualitzat la tasca.,int64
+Task: P4 Delivery_S'ha creat la tramesa.,int64
+Task: P4 Delivery_S'ha pujat un fitxer.,int64
+Task: P4 Delivery_S'ha tramès una tramesa.,int64
+Task: P4 Delivery_S'ha visualitzat Open Grader,int64
+Task: P4 Delivery_S'ha visualitzat el formulari de tramesa.,int64
+Task: P4 Delivery_S'ha visualitzat l'estat de la tasca.,int64
+Task: P4 Delivery_S'ha visualitzat la confirmació de la supressió de la tramesa.,int64
+Task: P4 Delivery_S'ha visualitzat la retroacció,int64
+Task: P4 Delivery_Submission removed.,int64
+Teoria Sessió 10_Mòdul de curs vist,int64
+Teoria Sessió 11_Mòdul de curs vist,int64
+Teoria Sessió 12_Mòdul de curs vist,int64
+Teoria Sessió 13_Mòdul de curs vist,int64
+Teoria Sessió 14_Mòdul de curs vist,int64
+Teoria Sessió 1_Mòdul de curs vist,int64
+Teoria Sessió 2_Mòdul de curs vist,int64
+Teoria Sessió 3_Mòdul de curs vist,int64
+Teoria Sessió 4_Mòdul de curs vist,int64
+Teoria Sessió 5_Mòdul de curs vist,int64
+Teoria Sessió 6_Mòdul de curs vist,int64
+Teoria Sessió 7_Mòdul de curs vist,int64
+Teoria Sessió 8_Mòdul de curs vist,int64
+Teoria Sessió 9_Mòdul de curs vist,int64
+URL: AC Generator_Mòdul de curs vist,int64
+URL: Oscil·lacions en circuits LC_Mòdul de curs vist,int64
+"URL: Resistència, Reactància i Impedància: què són?_Mòdul de curs vist",int64
+URL: Working Principle of AC generator_Mòdul de curs vist,int64
+User Guide_Mòdul de curs vist,int64
+target,int64
+total_examen,float64
